@@ -1,2 +1,4 @@
-# esu
-esu = easy shorten urls
+#esu
+esl = easy shorten urls
+#کوتاه کننده لینک
+یک کوتاه کننده آسان لینک از حمیدرضا احمدی
